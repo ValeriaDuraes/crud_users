@@ -1,0 +1,11 @@
+{
+  "name": "crud_users",
+  "version": "1.0.0",
+  "description": "It's a CRUD simple project made with Node.JS on the Backend, Postgres for the Database and HTML+Bootstrap+JavaScript on the Frontend. With this project my goal is to put my recently studies in practice!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valéria Durães",
+  "license": "ISC"
+}
